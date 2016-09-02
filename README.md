@@ -21,6 +21,6 @@ Spinning 3D pentagon. Adapted from [here](http://zulko.github.io/blog/2014/09/20
 ![](http://i.imgur.com/wfnfwGP.gif)
 
 ### Tunnel Swirl
-Swirling tunnel. Adapted from [here](Adapted from [here](http://zulko.github.io/blog/2014/09/20/vector-animations-with-python/))
+Swirling tunnel. Adapted from [here](http://zulko.github.io/blog/2014/09/20/vector-animations-with-python/)
 
 ![](http://i.imgur.com/0lLPIMj.gif)
