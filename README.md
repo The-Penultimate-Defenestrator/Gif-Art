@@ -10,8 +10,8 @@ A spinning cube. Adapted from [here](http://codentronix.com/2011/05/12/rotating-
 
 ![](http://i.imgur.com/hLwQVjc.gif)
 
-### Hexagon
-Spinning 3D hexagon. Adapted from [here](http://zulko.github.io/blog/2014/09/20/vector-animations-with-python/)
+### Pentagon
+Spinning 3D pentagon. Adapted from [here](http://zulko.github.io/blog/2014/09/20/vector-animations-with-python/)
 
 ![](http://i.imgur.com/wfnfwGP.gif)
 
