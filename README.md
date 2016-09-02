@@ -5,6 +5,11 @@ Two of these animations are rewritten from animations found on [this blog post](
 
 # The Animations
 
+### Seirpinski Triangle
+Infinite zoom on a seirpinski triangle. Entirely my own.
+
+![](http://i.imgur.com/yOfOZNd.gif)
+
 ### Cube
 A spinning cube. Adapted from [here](http://codentronix.com/2011/05/12/rotating-3d-cube-using-python-and-pygame/)
 
@@ -14,11 +19,6 @@ A spinning cube. Adapted from [here](http://codentronix.com/2011/05/12/rotating-
 Spinning 3D pentagon. Adapted from [here](http://zulko.github.io/blog/2014/09/20/vector-animations-with-python/)
 
 ![](http://i.imgur.com/wfnfwGP.gif)
-
-### Seirpinski Triangle
-Infinite zoom on a seirpinski triangle. Entirely my own.
-
-![](http://i.imgur.com/yOfOZNd.gif)
 
 ### Tunnel Swirl
 Swirling tunnel. Adapted from [here](Adapted from [here](http://zulko.github.io/blog/2014/09/20/vector-animations-with-python/))
